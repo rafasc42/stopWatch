@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 50px;
+    text-align: center;
+}
+
+#display{
+    margin: 50 20% 50px 20%;
+    border-style: solid;
+}
+
+.box{
+    margin: 0 30% 30px 30%;
+    border-style: solid;
+}
