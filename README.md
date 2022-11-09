@@ -9,4 +9,4 @@ this stopwatch haven't got to his last version, there still has some upgrades to
 the interface for the stopwatch is preetier than before, but there a still some bugs to solve
 
 1. when the window is on full mode, the buttons and the display of the timer gets it's border from circle to retangular format.
-2. the timer when starts to count it takes 1 second to start, getting a delay.
+2. the timer when starts to count takes 1 second to start, getting a 1 second delay.
